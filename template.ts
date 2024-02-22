@@ -6,7 +6,7 @@ const rl = readline.createInterface({
 });
 
 // Ler a entrada e calcular a área
-rl.question('Digite o valor do raio: ', (input: string) => {
+rl.question('', (input: string) => {
     //Logica
 
     // Fechar o readline
